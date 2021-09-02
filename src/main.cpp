@@ -4,7 +4,7 @@ Nokia5110 lcd(7, 8);	//DC, RST
 
 int main(void)
 {
-	lcd.init();			//Initialize The LCD
+	lcd.init();		//Initialize The LCD
 
 	lcd.setCursor(0, 0);
 	lcd.print("Devashish :)");
