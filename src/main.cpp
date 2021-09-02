@@ -1,6 +1,6 @@
 #include "STM32F411xx_Nokia5110.h"
 
-Nokia5110 lcd(7, 8);	//DC, RST
+Nokia5110 lcd(7, 8);		//DC, RST
 
 int main(void)
 {
