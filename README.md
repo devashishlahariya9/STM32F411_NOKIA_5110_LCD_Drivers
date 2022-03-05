@@ -1,6 +1,6 @@
 #  STM32F411xx-NOKIA-5110-LCD-Drivers
 
-Drivers for the Nokia 5110 LCD Using SPI Peripheral of the STM32F411VE-DISCO Board. Should also work on similar boards. Fully Flexible Bare-Metal Drivers for the Nokia 5110 LCD. Supports INTEGERS, FLOAT, DOUBLE, STRINGS, CHARACTERS, CUSTOM BITMAPS.
+Drivers for the Nokia 5110 LCD Using SPI Peripheral of the STM32F411E-DISCO Board. Should also work on similar boards. Fully Flexible Bare-Metal Drivers for the Nokia 5110 LCD. Supports INTEGERS, FLOAT, DOUBLE, STRINGS, CHARACTERS, CUSTOM BITMAPS.
 
 # Keywords:
 1. SPIx => x = (1, 2, 3)
