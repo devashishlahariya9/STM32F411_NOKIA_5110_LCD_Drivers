@@ -18,4 +18,5 @@ Drivers for the Nokia 5110 LCD Using SPI Peripheral of the STM32F411VE-DISCO Boa
 # API Usage:
 1. Initialize The **NOKIA** Struct with your preferred name.
 2. Call The **NOKIA_Init()** Function and pass all the given arguments.
-3. That's it! Now you have successfully initialized your LCD. Have Fun Playing Around :)
+3. Set The Best Contrast Using The **NOKIA_SetCursor()** Function.
+4. That's it! Now you have successfully initialized your LCD. Have Fun Playing Around :)
